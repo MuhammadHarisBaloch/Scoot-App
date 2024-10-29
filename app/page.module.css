@@ -1,0 +1,50 @@
+.unstyleBtn {
+  font-size: 18px;
+  font-weight: 800;
+  font-family: monospace;
+  color: #939caa;
+}
+.unstyleBtn:hover {
+  color: #fcb72b;
+}
+
+.headerBtn {
+  height: 3rem;
+  width: 10rem;
+  border-radius: 0;
+  font-weight: 600;
+  font-family: monospace;
+  font-size: 16px;
+  background-color: #fcb72b;
+}
+.headerBtn:hover {
+  color: #fcb72b;
+  background-color: white;
+  border-color: #fcb72b;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.defaultBtn {
+  height: 3rem;
+  width: 11rem;
+  border-radius: 0;
+  font-weight: 600;
+  font-family: monospace;
+  font-size: 16px;
+  background-color: #fcb72b;
+}
+.defaultBtn:hover {
+  color: #fcb72b;
+  background-color: transparent;
+  border-color: #fcb72b;
+  border-width: 2px;
+  border-style: solid;
+}
+.accordian {
+  background-color: #f2f5f9;
+  color: #fcb72b;
+}
+.accordian:hover {
+  background-color: #fff4df;
+}
